@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"cn.home1.cloud.netflix.eureka"},{"l":"cn.home1.cloud.netflix.eureka.server"},{"l":"org.springframework.boot.actuate.endpoint"},{"l":"org.springframework.cloud.client.serviceregistry"},{"l":"org.springframework.cloud.client.serviceregistry.endpoint"}]
